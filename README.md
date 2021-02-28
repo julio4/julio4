@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**julio4/julio4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cli
+julio4@github:~ $ whoami
 
-Here are some ideas to get you started:
+  • 🌱 Computer Science Student
+  • ⚡ Software developer
+  • 😆 Tech junkie
+  
+```
+### Stats
+  <table>
+  <tr>
+      <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=julio4&layout=compact"/></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=julio4&show_icons=true&include_all_commits=true&hide=contribs,issues"/></td>
+  </tr>   
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch
+<p>
+  <a href="https://www.linkedin.com/in/jules-doumeche/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+<p>
