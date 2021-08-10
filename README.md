@@ -12,7 +12,7 @@ julio4@github:~ $ whoami
   <table>
   <tr>
       <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=julio4&layout=compact"/></td>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=julio4&show_icons=true&include_all_commits=true&hide=contribs,issues"/></td>
+      <td><img width="400px" align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=julio4"/></td>
   </tr>   
 </table>
 
