@@ -3,7 +3,7 @@
 ```cli
 julio4@github:~ $ whoami
 
-  • 🌱 Computer Science Student
+  • 🌱 Computer Science Student at Grenoble INP Ensimag
   • ⚡ Software developer
   • 😆 Tech junkie
   
@@ -12,7 +12,6 @@ julio4@github:~ $ whoami
   <table>
   <tr>
       <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=julio4&layout=compact"/></td>
-      <td><img width="400px" align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=julio4"/></td>
   </tr>   
 </table>
 
