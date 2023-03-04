@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-Check my website: ![julio4.com](https://julio4.com/)
+<p>
+  Check my website: <a href="https://julio4.com">julio4.com</a>
+<p>
 
 ```cli
 julio4@github:~ $ whoami
